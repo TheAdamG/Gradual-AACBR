@@ -4,10 +4,9 @@
 
 ## 📦 Installation
 
-Install from source:
+Install from source. Run the following from the root directory:
 
 ```bash
-cd src
 pip install .
 ```
 
